@@ -34,8 +34,7 @@ Y = labelencoder_Y.fit_transform(Y)
 print(Y)
 
 # 4.将数据集分为训练和测试数据集：Splitting the datasets into training sets and Test sets，通常为80/20
-# cross_validation被什么取代？
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split( X , Y , test_size = 0.2, random_state = 0)
 print("X_train:")
 print(X_train, X_test, Y_train, Y_test)

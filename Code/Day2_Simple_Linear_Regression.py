@@ -1,5 +1,5 @@
 #
-# Day2：简单线性回归，Y为dependent variable，X为independent variable
+# Day2：Simple Linear Regression简单线性回归，Y为dependent variable，X为independent variable
 #
 
 # 1.Data Preprocessing
@@ -13,7 +13,7 @@ X = dataset.iloc[ : ,   : 1 ].values        # 注意采用":"方式为前闭后�
 Y = dataset.iloc[ : , 1 ].values            # 第1列变为行
 print(X, Y)
 
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, random_state = 0)
 
 # 2.Fitting Simple Linear Regression Model to the training set
