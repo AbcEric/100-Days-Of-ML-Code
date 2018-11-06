@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fe65ece-66b5-4589-9126-0f388d2cd8cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/Day11_K-NN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/Day13_SVM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/Day25_Decision_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/Day34_Random_Forests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Day2_Simple_Linear_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Day2_Simple_Linear_Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Day6_Logistic_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Day6_Logistic_Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/day1_Data PreProcessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/day1_Data PreProcessing.py" afterDir="false" />
-    </list>
+    <list default="true" id="7fe65ece-66b5-4589-9126-0f388d2cd8cc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +14,8 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/Code/Day6_Logistic_Regression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -63,11 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/Day13_SVM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="390">
               <caret line="15" column="35" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <element signature="e#7#25#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -75,23 +63,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/Day25_Decision_Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="180">
               <caret line="8" column="35" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="35" />
-              <folding>
-                <element signature="e#2#20#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/Day34_Random_Forests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code/Day34_Random_Forests.py">
+        <entry file="file://$PROJECT_DIR$/Code/day1_Data PreProcessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#27#45#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="960">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -122,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="272" />
     <option name="y" value="97" />
     <option name="width" value="1378" />
@@ -321,7 +312,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497349" />
@@ -372,9 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <element signature="e#8#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -385,47 +373,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/day1_Data PreProcessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/Day6_Logistic_Regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/Day13_SVM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="390">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="e#7#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/Day25_Decision_Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="180">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="e#2#20#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/Day34_Random_Forests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#27#45#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/day1_Data PreProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
         </state>
       </provider>
     </entry>
